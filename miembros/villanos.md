@@ -5,6 +5,7 @@ Doomsday
 Brainiac
 Joker
 Harley Quinn
+Darkseid
 
 ## Notas
 
