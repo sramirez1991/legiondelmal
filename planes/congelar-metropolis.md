@@ -1,0 +1,5 @@
+## congelar metropolis.
+
+Obejtivo
+
+Funciones
